@@ -1,3 +1,3 @@
-BAN644 Project \n
-Name: Most. Mahjabin \n
+BAN644 Project \
+Name: Most. Mahjabin \
 ID: 24364015
